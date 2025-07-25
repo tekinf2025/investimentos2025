@@ -1,0 +1,6 @@
+tipo_ativo,ativo,data,quantidade,preco,outros_custos,valor_total
+acoes,GOAU4,2024-01-01,3300,9.73,0,32109
+acoes,BBAS3,2024-06-01,700,24.86,0,17402
+renda_fixa,Tesouro Selic 2029,2022-10-05,3,13590,0,40770
+acoes,BBAS3,2025-07-23,300,20.25,0,6075
+acoes,PETR4,2025-07-07,400,34.34,0,13736

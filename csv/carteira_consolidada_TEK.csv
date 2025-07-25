@@ -1,0 +1,5 @@
+ativo,tipo_ativo,quantidade_total,preco_medio,valor_total_compras,valor_total_vendas,lucro_prejuizo,retorno_percentual,valor_atual,valor_mercado,lucro_prejuizo_latente,retorno_percentual_latente
+GOAU4,acoes,2500,9.73,32109,7368,-416,-5.344295991778006,9.58,23950,-375,-1.5416238437821173
+BBAS3,acoes,1000,23.477,23477,0,0,0,20.31,20310,-3167,-13.489798526217148
+Tesouro Selic 2029,renda_fixa,3,13590,40770,0,0,0,16267.22,48801.659999999996,8031.659999999996,19.6999264164827
+PETR4,acoes,400,34.34,13736,0,0,0,32.09,12836.000000000002,-900,-6.552125800815375

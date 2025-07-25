@@ -1,0 +1,8 @@
+tipo_operacao,tipo_derivativo,ativo_subjacente,codigo_opcao,strike,data,quantidade,preco,outros_custos,status,valor_total
+venda,call,PETR4,PETRJ362,31.87,2026-10-16,200,6.1,0,aberta,1220
+venda,call,PETR4,PETRD400,30.85,2026-04-16,200,7.9,0,aberta,1580
+venda,call,BBAS3,BBASH290,27.36,2026-03-19,400,4.9,0,aberta,1960
+venda,call,BBAS3,BBASJ270,25.61,2026-10-15,200,5.5,0,aberta,1100
+venda,call,GOAU4,GOAUL100,9.47,2025-12-18,1500,2.08,0,aberta,3120
+venda,call,GOAU4,GOAUJ974,9.48,2025-10-15,1000,2.6,0,aberta,2600
+venda,call,BBAS3,BBASL223,21.94,2025-12-18,400,1.44,0,aberta,576

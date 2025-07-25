@@ -1,0 +1,349 @@
+{
+  "investment_compras": [
+    {
+      "id": 1751888692142,
+      "data": "2025-07-07",
+      "ativo": "PETR4",
+      "preco": 34.34,
+      "timestamp": "2025-07-07T13:25:06.504Z",
+      "quantidade": 400,
+      "tipo_ativo": "acoes",
+      "valor_total": 13736.000000000002,
+      "outros_custos": 0
+    },
+    {
+      "id": 1751898184713,
+      "data": "2024-01-01",
+      "ativo": "GOAU4",
+      "preco": 9.73,
+      "timestamp": "2025-07-07T14:23:04.209Z",
+      "quantidade": 3300,
+      "tipo_ativo": "acoes",
+      "valor_total": 32109,
+      "outros_custos": 0
+    },
+    {
+      "id": 1751898224444,
+      "data": "2024-06-01",
+      "ativo": "BBAS3",
+      "preco": 24.86,
+      "timestamp": "2025-07-07T14:23:43.944Z",
+      "quantidade": 700,
+      "tipo_ativo": "acoes",
+      "valor_total": 17402,
+      "outros_custos": 0
+    },
+    {
+      "id": 1751898333584,
+      "data": "2022-10-05",
+      "ativo": "Tesouro Selic 2029",
+      "preco": 13590,
+      "timestamp": "2025-07-08T10:58:18.001Z",
+      "quantidade": 3,
+      "tipo_ativo": "renda_fixa",
+      "valor_total": 40770,
+      "outros_custos": 0
+    }
+  ],
+  "investment_proventos": [
+    {
+      "id": 1751889738058,
+      "data": "2025-06-19",
+      "ativo": "PETR4",
+      "valor": 0.36,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:26:59.468Z",
+      "quantidade": 400,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751890238404,
+      "data": "2025-05-19",
+      "ativo": "PETR4",
+      "valor": 0.36,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:26:42.820Z",
+      "quantidade": 400,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751901792794,
+      "data": "2024-12-22",
+      "ativo": "PETR4",
+      "valor": 1.55,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:23:12.287Z",
+      "quantidade": 200,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751901896131,
+      "data": "2025-02-19",
+      "ativo": "PETR4",
+      "valor": 0.56,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:24:55.622Z",
+      "quantidade": 200,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751901950877,
+      "data": "2025-03-19",
+      "ativo": "PETR4",
+      "valor": 0.67,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:25:50.374Z",
+      "quantidade": 200,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902161305,
+      "data": "2024-12-05",
+      "ativo": "BBAS3",
+      "valor": 0.41,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:29:20.802Z",
+      "quantidade": 1200,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902207112,
+      "data": "2024-12-26",
+      "ativo": "BBAS3",
+      "valor": 0.15,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:30:06.611Z",
+      "quantidade": 900,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902250375,
+      "data": "2025-03-19",
+      "ativo": "BBAS3",
+      "valor": 0.44,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:30:49.874Z",
+      "quantidade": 600,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902273552,
+      "data": "2025-03-20",
+      "ativo": "BBAS3",
+      "valor": 0.13,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:31:13.049Z",
+      "quantidade": 600,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902635938,
+      "data": "2024-05-25",
+      "ativo": "GOAU4",
+      "valor": 0.19,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:37:15.438Z",
+      "quantidade": 600,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902664389,
+      "data": "2024-08-20",
+      "ativo": "GOAU4",
+      "valor": 0.08,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:37:43.884Z",
+      "quantidade": 1200,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902702682,
+      "data": "2024-12-16",
+      "ativo": "GOAU4",
+      "valor": 0.13,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:38:22.172Z",
+      "quantidade": 2500,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902728244,
+      "data": "2025-03-16",
+      "ativo": "GOAU4",
+      "valor": 0.05,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:38:47.733Z",
+      "quantidade": 2500,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751902762502,
+      "data": "2025-05-19",
+      "ativo": "GOAU4",
+      "valor": 0.08,
+      "a_receber": false,
+      "timestamp": "2025-07-07T15:39:21.988Z",
+      "quantidade": 3300,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751989413935,
+      "data": "2025-08-19",
+      "ativo": "PETR4",
+      "valor": 0.38,
+      "a_receber": true,
+      "timestamp": "2025-07-08T15:43:33.429Z",
+      "quantidade": 400,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751989449315,
+      "data": "2025-09-22",
+      "ativo": "PETR4",
+      "valor": 0.43,
+      "a_receber": true,
+      "timestamp": "2025-07-08T15:44:08.813Z",
+      "quantidade": 400,
+      "tipo_provento": "dividendos"
+    },
+    {
+      "id": 1751989953727,
+      "data": "2025-06-12",
+      "ativo": "BBAS3",
+      "valor": 0.18,
+      "a_receber": false,
+      "timestamp": "2025-07-08T15:52:33.224Z",
+      "quantidade": 1200,
+      "tipo_provento": "dividendos"
+    }
+  ],
+  "investment_derivativos": [
+    {
+      "id": 1751893009565,
+      "data": "2026-10-16",
+      "preco": 6.1,
+      "status": "aberta",
+      "strike": 31.87,
+      "timestamp": "2025-07-08T12:47:09.649Z",
+      "quantidade": 200,
+      "valor_total": 1220,
+      "codigo_opcao": "PETRJ362",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "PETR4"
+    },
+    {
+      "id": 1751893074812,
+      "data": "2026-04-16",
+      "preco": 7.9,
+      "status": "aberta",
+      "strike": 30.85,
+      "timestamp": "2025-07-08T12:47:33.143Z",
+      "quantidade": 200,
+      "valor_total": 1580,
+      "codigo_opcao": "PETRD400",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "PETR4"
+    },
+    {
+      "id": 1751903948243,
+      "data": "2025-08-14",
+      "preco": 1.23,
+      "status": "aberta",
+      "strike": 21.83,
+      "timestamp": "2025-07-08T12:48:00.120Z",
+      "quantidade": 100,
+      "valor_total": 123,
+      "codigo_opcao": "BBASH221",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "BBAS3"
+    },
+    {
+      "id": 1751904012851,
+      "data": "2026-03-19",
+      "preco": 4.9,
+      "status": "aberta",
+      "strike": 27.36,
+      "timestamp": "2025-07-08T12:48:32.511Z",
+      "quantidade": 400,
+      "valor_total": 1960.0000000000002,
+      "codigo_opcao": "BBASH290",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "BBAS3"
+    },
+    {
+      "id": 1751904045826,
+      "data": "2026-10-15",
+      "preco": 5.5,
+      "status": "aberta",
+      "strike": 25.61,
+      "timestamp": "2025-07-08T12:49:17.039Z",
+      "quantidade": 200,
+      "valor_total": 1100,
+      "codigo_opcao": "BBASJ270",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "BBAS3"
+    },
+    {
+      "id": 1751904135710,
+      "data": "2025-07-16",
+      "preco": 0.39,
+      "status": "aberta",
+      "strike": 8.82,
+      "timestamp": "2025-07-08T12:49:36.239Z",
+      "quantidade": 800,
+      "valor_total": 312,
+      "codigo_opcao": "GOAUG890",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "GOAU4"
+    },
+    {
+      "id": 1751904181463,
+      "data": "2025-12-18",
+      "preco": 2.08,
+      "status": "aberta",
+      "strike": 9.47,
+      "timestamp": "2025-07-08T12:49:59.575Z",
+      "quantidade": 1500,
+      "valor_total": 3120,
+      "codigo_opcao": "GOAUL100",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "GOAU4"
+    },
+    {
+      "id": 1751904229336,
+      "data": "2025-10-15",
+      "preco": 2.6,
+      "status": "aberta",
+      "strike": 9.48,
+      "timestamp": "2025-07-08T12:50:19.390Z",
+      "quantidade": 1000,
+      "valor_total": 2600,
+      "codigo_opcao": "GOAUJ974",
+      "outros_custos": 0,
+      "tipo_operacao": "venda",
+      "tipo_derivativo": "call",
+      "ativo_subjacente": "GOAU4"
+    }
+  ],
+  "investment_last_update": "2025-07-25T15:37:41.817Z",
+  "investment_valores_atuais": {
+    "BBAS3": 20.31,
+    "GOAU4": 9.58,
+    "PETR4": 32.09,
+    "Tesouro Selic 2029": 16267.22
+  }
+}
